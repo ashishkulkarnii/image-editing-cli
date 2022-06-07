@@ -38,3 +38,4 @@ Image Manipulation Commands:
 - [x] color name in English to BGR
 - [ ] portrait mode
 - [ ] masking based on edge detection
+- [ ] saturation adjusting
