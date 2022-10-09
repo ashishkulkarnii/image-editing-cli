@@ -1,14 +1,14 @@
 # image-editing-cli
 
-Note: ```[]``` means optional and all values are taken as float unless mentioned otherwise
+Note: [] means optional and all values are taken as float unless mentioned otherwise
 
 General Commands:
-* ```load &lt;filename>.&lt;extension>```
-* ```save [&lt;filename>] [&lt;extension>]```
-* ```exit [save]```
-* ```show [&lt;filename>.&lt;extension>]```
-* ```undo```
-* ```redo```
+* load &lt;filename>.&lt;extension>
+* save [&lt;filename>] [&lt;extension>]
+* exit [save]
+* show [&lt;filename>.&lt;extension>]
+* undo
+* redo
 
 Image Manipulation Commands:
 * greyscale
